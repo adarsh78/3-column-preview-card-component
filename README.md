@@ -29,7 +29,7 @@ Desktop:
 
 ### Links
 
-- Live Site URL:https://adarsh78.github.io/3-column-preview-card-component/
+- Live Site URL: [Site URL] (https://adarsh78.github.io/3-column-preview-card-component/)
 
 ## My process
 
