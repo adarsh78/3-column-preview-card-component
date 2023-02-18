@@ -45,4 +45,4 @@ Desktop:
 
 - Website - [Adarsh Gupta] (https://adarsh78.github.io/3-column-preview-card-component/)
 - Frontend Mentor - [@adarsh78](https://www.frontendmentor.io/profile/adarsh78)
-
+- Twitter - [@adarsh_kgupta](https://twitter.com/adarsh_kgupta)
