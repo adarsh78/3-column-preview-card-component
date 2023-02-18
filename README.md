@@ -29,8 +29,7 @@ Desktop:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here]https://adarsh78.github.io/3-column-preview-card-component/
+- Live Site URL:https://adarsh78.github.io/3-column-preview-card-component/
 
 ## My process
 
@@ -45,5 +44,5 @@ Desktop:
 ## Author
 
 - Website - [Adarsh Gupta] (https://adarsh78.github.io/3-column-preview-card-component/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/adarsh78)
+- Frontend Mentor - [@adarsh78](https://www.frontendmentor.io/profile/adarsh78)
 
